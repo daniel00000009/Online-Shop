@@ -4,9 +4,9 @@ For this project to work properly, you will need a web development package (e.g.
 $dsn = "mysql:host=localhost;dbname=phpproject01";
 $dbusername = "root";
 $dbpassword = "";
+Change it according to your preferences. 
 
-Change it according to your preferences. Create the two tables that we will work with, which are 'users' and 'products', using the following SQL commands:
-
+Create the two tables that we will work with, which are 'users' and 'products', using the following SQL commands:
 CREATE TABLE users (
   id INT(11) PRIMARY KEY AUTO_INCREMENT,
   username VARCHAR(30) NOT NULL,
