@@ -1,5 +1,5 @@
 # Online-Shop
-For this project to work properly, you will need a web development package (e.g., XAMPP). Connect to the database, such as phpMyAdmin (for the code, I use:
+For this project to work properly, you will need a web development package (e.g., XAMPP). Connect to the database, such as phpMyAdmin (for this exemple I use:
 
 $dsn = "mysql:host=localhost;dbname=phpproject01";
 $dbusername = "root";
