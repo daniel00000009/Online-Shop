@@ -23,5 +23,7 @@ CREATE TABLE products (
 );
 
 Open XAMPP and start Apache and MySQL. However, before doing so, you'll need to add the project to ..\xampp\htdocs. 
-If you've followed the steps listed above, you should see a website with the project's name when searching for "localhost" on Google (in my case, it's "magazinOnline"). 
+If you've followed the steps listed above, you should see a website with the project's name when searching for "localhost" on Google. 
 Click on it, and the site should open, running the PHP and other files properly.
+
+This is only for educational purposes, but usually, you don't want to share sensitive information, such as the one listed above."
